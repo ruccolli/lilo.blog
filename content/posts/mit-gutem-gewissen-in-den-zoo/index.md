@@ -16,15 +16,15 @@ Es ist ein frischer Samstagmorgen, die Sonne scheint und die Kinder rennen hin u
 
 {{</lead>}}
 
+***Eine Reportage von Gabriele Scognamiglio und Sorin Schmassmann***
+
 
 
 ### Was sind Zoos?
 
 In früheren Zeiten stand das Erlebnis, exotische Tiere zu sehen, im Mittelpunkt. Sehr viele Tiere auf engem Raum waren also keine Seltenheit. Doch inwiefern unterscheidet sich der Zoo von heute davon? Genau beantworten kann man das nicht, Denn es gibt nicht *den* Zoo, da dies kein rechtlich geschützter Begriff ist. Das heisst, dass jeder sich Zoo nennen darf, solange er ein paar Tiere hat und die nötigen Qualifikationen und sonstige Voraussetzungen vorweisen kann, um diese zu halten. Es gibt aber verschiedene Dachverbände wie die EAZA (European Association of Zoos and Aquaria) und WAZA (World Association of Zoos and Aquariums), in denen die Zoos gewisse Voraussetzungen und Anforderungen erfüllen müssen, um Mitglied dieser Organisationen zu sein. In der Schweiz haben wir etwas über 50 Zoos und Tierparks und weltweit sind es wohl schätzungsweise an die 10 000. So veränderten sich die Zoos im Wandel der Gesellschaft und setzten sich neue Schwerpunkte: Bildung und Erholung für die Bevölkerung, Forschung und Artenschutz.
 
-
-
-## Die vier Schwerpunkte 
+## Die vier Schwerpunkte
 
 ### Bildung
 
@@ -32,23 +32,17 @@ Die meisten Leute bleiben nur kurz vor einem Gehege stehen und die wenigsten les
 
 ![Zoo Basel Informationsschild Schneeleopard, Foto von: Gabriele Scognamiglio](2.jpg)
 
-
-
-### Erholung 
+### Erholung
 
 Wie sieht Erholung im Zoo aus? Nun, einige Personen können sich sicher durch das Beobachten der Tiere vom Alltagsstress etwas ablenken und so Erholung finden. Für andere, wie zum Beispiel Familien mit Kindern, kann es ein Tagesausflug mit anschliessendem Picknick sein, bei dem die Eltern den Kindern freien Lauf lassen und sich diese auf dem Gelände austoben können, sei es bei der Seehundfütterung oder auf dem Spielplatz direkt in Sichtweite der Picknickstelle. Dem gegenüber stellt Robert Marc Lehmann fest: 
 
 > «Mit Kindern in den Wald, an den Fluss oder auf die Wiese gehen, anstatt in den Zoo» (Zitat, Seite 361, Mission Erde, Die Welt ist es wert, um sie zu kämpfen, Verlag Ludwig).
-
-
 
 ### Forschung
 
 Die Zucht kann tatsächlich ein Argument sein. Je nach Land ist das unterschiedlich. Es gibt einige Länder mit intensiver Zooforschung wie zum Beispiel die USA, England oder die Niederlande. Ein sehr gutes Beispiel ist der Zoo Leipzig, dieser hat als einziger Zoo in Europa alle grossen Menschenaffen, also die Schimpansen, Gorillas, Bonobos und Orang-Utans. In Leipzig befindet sich ebenfalls das Max-Planck-Institut für evolutionäre Anthropologie, welches seit über 20 Jahren im Projekt «Pongoland» mit dem Zoo Leipzig zusammenarbeitet. Und dann gibt es laut Herr Prof. Dr. Wild richtig gute Forschung. Das ist aber die Ausnahme, dass es so gut funktioniert wie in Leipzig. Eine solche Zusammenarbeit in der Forschung kann auch besser sein, als die Forschung in der freien Natur. So ist in der Natur nicht kontrollierbar, was die Tiere beeinflusst und es ausserdem immer schwieriger wird, die Tiere nicht zu stark an den Menschen zu gewöhnen oder sie gar zu stören. Allerdings sind fast alle Studien über das Verhalten der Tiere schon dadurch verfälscht, dass die Tiere eingesperrt sind. Auch könnte all diese Forschung direkt vor Ort gemacht werden, wo die Tiere in geschützten Parks viel freier und in ihrem natürlichen Lebensraum leben könnten. Ein weiterer Punkt, der für diese Art der Forschung spricht, ist, dass man viele Dinge gar nicht im Zoo beobachten kann, weil diese nur in der freien Wildbahn stattfinden. Herr Prof. Dr. Wild fasst es folgendermassen zusammen: 
 
 > «Für die Wissenschaft gibt es schon ziemlich gute Institutionen und man sollte diese nicht künstlich vervielfältigen».
-
-
 
 ### Artenschutz
 
@@ -73,9 +67,7 @@ Mit Mottos wie: *«Mehr Platz für Diversität», «Erleben, was es zu bewahren 
 
 Als erster und heute noch einziger Zoo hat dieser 2019 beschlossen und damit angefangen, Tiere, die man nicht mehr auswildern kann, in Sanctuaries umzusiedeln. Der Zoo Barcelona hält und züchtet nur noch solche Tiere, welche auch wieder ausgewildert werden können. Er konzentriert sich nun eindeutig auf den Artenschutz und nicht auf das «Ausstellen von Tieren».
 
-
-
-### Fazit 
+### Fazit
 
 Als wir uns in das Thema, zugegeben etwas mit Vorurteilen behaftet, eingearbeitet haben, sind wir über viele Argumente für und gegen Zoos gekommen. Zoos bilden, schützen und forschen, jedoch ist die Weiterbildung der Besucher gemäss den meisten unabhängigen Studien zufolge vernachlässigbar und das Schützen und Forschen kann in anderen Institutionen besser praktiziert werden. Nun stellt sich also die Frage nach dem Gesamtaufwand für Betrieb und Unterhalt der Zoos und ob wir denken, dass es moralisch vertretbar ist, in Zoos zu gehen. Ist es uns das bisschen Bildung, die Forschung und das bisschen Artenschutz wert, Rick den Schimpansen, welcher sichtbar darunter leidet, einzusperren? Wir finden, diese Gegenargumente überwiegen die befürwortenden Argumente klar. Jedoch sollte jeder diese Fragen für sich selbst beantworten. Beispielsweise ob es in Ordnung ist, Fleisch und andere tierische Produkte zu essen.
 
