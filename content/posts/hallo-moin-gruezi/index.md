@@ -10,10 +10,10 @@ Einführender Text erklären
 
 ![Zoo Basel Löwenanlage, Foto von: Gabriele Scognamiglio](1.jpg)
 
-{{<lead>}}
+
 Es ist ein frischer Samstagmorgen, die Sonne scheint und die Kinder rennen hin und her und bleiben ab und zu stehen. Die Eltern lassen ihnen alle Freiheiten, um sich auszutoben, denn Autos und andere gefährliche Dinge gibt es hier im Tierpark nicht. Ein Kind bleibt vor dem Affengehege stehen, es schaut dem Schimpansen Rick beim Essen zu und klopft an die Scheibe, in der Hoffnung eine Reaktion auf die Aktion zu erhalten. Doch im Gegenteil, Rick dreht sich mit dem Rücken zum Kind und keine sieben Sekunden später rennt das Kind weiter zum nächsten Gehege. Am Abend wird es mit zahlreichen Erlebnissen den Tierpark hinter sich lassen und mit seiner Familie nach Hause gehen. Doch Rick wird sitzen bleiben und sein Zuhause nennt sich eine 400 Quadratmeter grosse Anlage mit etwas Grün und ein paar gespannten Seilen, an denen er sich mit seinen drei Mitbewohnern entlang hangeln kann. Von den weiten Flachlandregenwäldern Afrikas kann er nur träumen, falls er überhaupt weiss, wie sein ursprünglicher Lebensraum aussieht. Ist es uns das wert, Tiere Tag für Tag einzusperren?
 
-{{</lead>}}
+
 
 ***Eine Reportage von Gabriele Scognamiglio und Sorin Schmassmann***
 
@@ -47,14 +47,13 @@ Der Artenschutz besteht darin, im Zoo eine Reservepopulation aufzubauen. Dafür 
 
 ``
 
-`{{<box>}}`
-
 #### Herr Prof. Dr. Wild
 
 ![Porträt Dr. Prof. Wild, Foto von: Dr. Prof. Wild](3.jpg)
 
-Herr Prof. Dr. Wild ist Professor für theoretische Philosophie an der Universität Basel. Er hat sich unter anderem auf Tierphilosophie spezialisiert und arbeitet mit Sentience der Organisation für Tierrechte zusammen. Während dem ganzen Interview hat er einen informierten und vorbereiteten Eindruck hinterlassen. Sehr ausführlich hat er unsere Fragen beantwortet.\
-`{{</box>}}`
+Herr Prof. Dr. Wild ist Professor für theoretische Philosophie an der Universität Basel. Er hat sich unter anderem auf Tierphilosophie spezialisiert und arbeitet mit Sentience der Organisation für Tierrechte zusammen. Während dem ganzen Interview hat er einen informierten und vorbereiteten Eindruck hinterlassen. Sehr ausführlich hat er unsere Fragen beantwortet.
+
+
 
 ### Wie werden sich Zoos entwickeln? In Artenschutzzentren?
 
