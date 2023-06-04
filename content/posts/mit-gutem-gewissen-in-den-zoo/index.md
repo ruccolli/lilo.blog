@@ -7,7 +7,7 @@ tags = ["#Deutsch", "#Reportage"]
 image = "1.jpg"
 description = ""
 +++
-Einfphrender Text erklären
+Einführender Text erklären
 
 ![Zoo Basel Löwenanlage, Foto von: Gabriele Scognamiglio](1.jpg)
 
@@ -17,8 +17,6 @@ Es ist ein frischer Samstagmorgen, die Sonne scheint und die Kinder rennen hin u
 {{</lead>}}
 
 ***Eine Reportage von Gabriele Scognamiglio und Sorin Schmassmann***
-
-
 
 ### Was sind Zoos?
 
