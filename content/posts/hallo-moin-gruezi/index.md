@@ -2,9 +2,10 @@
 title = "Mit gutem Gewissen in den Zoo?"
 date = "2023-04-03"
 draft = false
-pinned = false
+pinned = true
 tags = ["Deutsch", "Reportage"]
 image = "1.jpg"
+description = "tr6tzi"
 +++
 Einführender Text erklären
 
