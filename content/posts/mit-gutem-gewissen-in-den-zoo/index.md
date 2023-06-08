@@ -52,7 +52,7 @@ Der Artenschutz besteht darin, im Zoo eine Reservepopulation aufzubauen. Dafür 
 
 #### Herr Prof. Dr. Wild
 
-![Porträt Dr. Prof. Wild, Foto von: Dr. Prof. Wild](wild.jpg)
+![Porträt Dr. Prof. Wild, Foto von: Dr. Prof. Wild](3.jpg)
 
 Herr Prof. Dr. Wild ist Professor für theoretische Philosophie an der Universität Basel. Er hat sich unter anderem auf Tierphilosophie spezialisiert und arbeitet mit Sentience der Organisation für Tierrechte zusammen. Während dem ganzen Interview hat er einen informierten und vorbereiteten Eindruck hinterlassen. Sehr ausführlich hat er unsere Fragen beantwortet.\
 `{{</box>}}`
