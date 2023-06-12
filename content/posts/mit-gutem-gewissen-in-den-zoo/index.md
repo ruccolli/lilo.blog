@@ -1,7 +1,7 @@
 +++
 title = "Mit gutem Gewissen in den Zoo?"
 date = "2023-06-12"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "1.jpg"
