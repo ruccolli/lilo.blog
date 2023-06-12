@@ -1,5 +1,5 @@
 +++
-title = "Mit gutem Gewissen in den Zoo?"
+title = "Mit gutem Gewissen in den Zoo? 2"
 date = "2023-06-03"
 draft = true
 pinned = false
