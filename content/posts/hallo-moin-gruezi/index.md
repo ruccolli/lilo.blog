@@ -1,6 +1,6 @@
 +++
 title = "Mit gutem Gewissen in den Zoo?"
-date = "2023-04-03"
+date = "2023-06-12"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
