@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Gabriele Scognamiglio"
-image = "/media/20230526_205612.jpg"
-url = "/about/"
+image = "/media/20230526_205439.jpg"
+url = "Gabriele Scognamiglio Schüler des Gymnasium Kirchenfelds"
 +++
