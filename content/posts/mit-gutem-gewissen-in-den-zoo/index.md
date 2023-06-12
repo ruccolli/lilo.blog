@@ -21,7 +21,7 @@ Es ist ein frischer Samstagmorgen, die Sonne scheint und die Kinder rennen hin u
 
 Kurz vor der Veröffentlichung der Reportage ist Frau Dr. von Houwald (Direktorin des Tierpark Berns), einer unser Interviewpartner abgesprungen. Es wurden alle Passagen von ihr gestrichen und durch unsere Sichtweise ersetzt. So findet sich in der Reportage nur noch Herr Prof. Dr. Wild als Interviewpartner und Fachperson.
 
-`{{</box>}}`
+{{</box>}}
 
 ### Was sind Zoos?
 
