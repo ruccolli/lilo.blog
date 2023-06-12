@@ -7,17 +7,19 @@ tags = ["Deutsch", "Reportage"]
 image = "1.jpg"
 description = ""
 +++
-{{<box title="Bemerkung">}}
-
-Kurz vor der Veröffentlichung der Reportage ist Frau Dr. von Houwald (Direktorin des Tierpark Berns), einer unser Interviewpartner abgesprungen. Es wurden alle Passagen von ihr gestrichen und durch neue ersetzt. So findet sich in der Reportage nur noch Herr Prof. Dr. Wild als Interview Partner und Fachperson.
-
-`{{</box>}}`
-
 ![Zoo Basel Löwenanlage, Foto von: Gabriele Scognamiglio](1.jpg)
 
 Es ist ein frischer Samstagmorgen, die Sonne scheint und die Kinder rennen hin und her und bleiben ab und zu stehen. Die Eltern lassen ihnen alle Freiheiten, um sich auszutoben, denn Autos und andere gefährliche Dinge gibt es hier im Tierpark nicht. Ein Kind bleibt vor dem Affengehege stehen, es schaut dem Schimpansen Rick beim Essen zu und klopft an die Scheibe, in der Hoffnung eine Reaktion auf die Aktion zu erhalten. Doch im Gegenteil, Rick dreht sich mit dem Rücken zum Kind und keine sieben Sekunden später rennt das Kind weiter zum nächsten Gehege. Am Abend wird es mit zahlreichen Erlebnissen den Tierpark hinter sich lassen und mit seiner Familie nach Hause gehen. Doch Rick wird sitzen bleiben und sein Zuhause nennt sich eine 400 Quadratmeter grosse Anlage mit etwas Grün und ein paar gespannten Seilen, an denen er sich mit seinen drei Mitbewohnern entlang hangeln kann. Von den weiten Flachlandregenwäldern Afrikas kann er nur träumen, falls er überhaupt weiss, wie sein ursprünglicher Lebensraum aussieht. Ist es uns das wert, Tiere Tag für Tag einzusperren?
 
 ***Eine Reportage von Gabriele Scognamiglio und Sorin Schmassmann***
+
+{{<box title="Bemerkung">}}
+
+### Bemerkung
+
+Kurz vor der Veröffentlichung der Reportage ist Frau Dr. von Houwald (Direktorin des Tierpark Berns), einer unser Interviewpartner abgesprungen. Es wurden alle Passagen von ihr gestrichen und durch neue ersetzt. So findet sich in der Reportage nur noch Herr Prof. Dr. Wild als Interview Partner und Fachperson.
+
+`{{</box>}}`
 
 ### Was sind Zoos?
 
