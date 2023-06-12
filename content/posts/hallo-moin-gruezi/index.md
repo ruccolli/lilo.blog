@@ -7,9 +7,11 @@ tags = ["Deutsch", "Reportage"]
 image = "1.jpg"
 description = ""
 +++
-Bemerkung
+{{<box title="Bemerkung">}}
 
 Kurz vor der Veröffentlichung der Reportage ist Frau Dr. von Houwald (Direktorin des Tierpark Berns), einer unser Interviewpartner abgesprungen. Es wurden alle Passagen von ihr gestrichen und durch neue ersetzt. So findet sich in der Reportage nur noch Herr Prof. Dr. Wild als Interview Partner und Fachperson.
+
+`{{</box>}}`
 
 ![Zoo Basel Löwenanlage, Foto von: Gabriele Scognamiglio](1.jpg)
 
@@ -45,7 +47,7 @@ Die Zucht kann tatsächlich ein Argument sein. Je nach Land ist das unterschiedl
 
 Der Artenschutz besteht darin, im Zoo eine Reservepopulation aufzubauen. Dafür gibt es die Zuchtprogramme, in welchen koordiniert wird, von welchem Tier es wie viele braucht und wer mit wem verträglich ist. So, und jetzt angenommen, alle Verwandten von Rick sterben in der freien Natur aus. Welche Art hat man dann noch? Man hat das genetische Material der Art, aber man hat nicht die Art in der natürlichen Umgebung. Ein Tier ist ja nicht nur genetisches Material, es ist eine Art, welche in einer bestimmten Umgebung lebt. Das heisst, man hat dann irgendwann in Zoos wahrscheinlich ganz andere Tiere als jetzt in freier Wildbahn. Das kann man jetzt sehr gut am Beispiel der Füchse sehen. Die Füchse, welche in der Stadt wohnen, entwickeln sich anders als die Füchse, die im Wald wohnen, so werden ihre Ohren und ihr Gehirn kleiner. Die Füchse der Stadt haben also eine andere Evolution. Wie gross die Veränderungen sein werden, das werden wir dann wohl in 100 Jahren sehen. Man könnte aber auch den Artenschutz vor Ort betreiben, das wäre schon allein wegen des Transports einfacher. Man muss aber den Zoos zugutehalten, dass diese teilweise mit NGOS vor Ort zusammenarbeiten und sich auch daran finanziell beteiligen, wie zum Beispiel mit dem Naturschutzfranken. Frau Dr. von Houwald, welche diesen Naturschutzfranken ins Leben gerufen hat, erklärt, dass sich die Besucher beim Eintrittspreis dazu entscheiden können, einen freiwilligen Franken zu zahlen, um damit diverse Projekte zu unterstützen. Ein weiterer wichtiger Faktor ist, dass der Lebensraum dort bereits besteht und nicht künstlich nachgebaut werden muss. Da steht auch die Faktenlage eher gegen Zoos, von 8700 Arten sind 900 stark bedroht und maximal 68 Arten wurden tatsächlich von Zoos gerettet. Da die ersten beiden Zahlen nur AZA-Zoos (Association of Zoos and Aquariums) betreffen, welche 250 von schätzungsweise 10'000 Zoos und Aquarien sind, können diese beiden Zahlen auch höher sein. Laut Herrn Wild ist es auch sehr viel wichtiger, den Lebensraum zu schützen als eine eigene Art. Da man im Zoo schlecht den Lebensraum schützen kann, muss man dafür vor Ort Naturschutzgebiete errichten.
 
-{{<box title="Herr Prof. Dr. Wild">}}
+{{<box>}}
 
 #### Herr Prof. Dr. Wild
 
